@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048827895965",
+    "project_id": "groundwater-monitoring",
+    "storage_bucket": "groundwater-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048827895965:android:007712eef53224d737b474",
+        "android_client_info": {
+          "package_name": "co.RuTAG.Groundwater_Monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048827895965-ho9bjpgogdkkldntqimt9ha5v6pferq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyeo5WgeYihMK9J-19BOoq2P4wHs6cCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048827895965-ho9bjpgogdkkldntqimt9ha5v6pferq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
